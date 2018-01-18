@@ -46,3 +46,4 @@ https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-w
 Voila!
 
 #For running the tests
+!
